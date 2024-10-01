@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mvx3SSYlREg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tahar\\OneDrive\\Masaüstü\\NLP Case Project\\Project.API\\Project.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tahar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.18\\microsoft.aspnetcore.openapi.7.0.18.nupkg.sha512",
+    "C:\\Users\\tahar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\tahar\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\tahar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\tahar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\tahar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\tahar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\tahar\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100-preview.7.24407.12\\microsoft.net.sdk.compilers.toolset.9.0.100-preview.7.24407.12.nupkg.sha512",
+    "C:\\Users\\tahar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\tahar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\tahar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\tahar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
